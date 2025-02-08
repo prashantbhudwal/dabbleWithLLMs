@@ -1,0 +1,13 @@
+# dabbleWithLLMs
+
+This repository is a practice space for experimenting with Large Language Models (LLMs) using Python and JavaScript (Deno notebooks).
+
+## Overview
+
+The goal of this project is to explore and experiment with various LLMs, leveraging the capabilities of both Python and JavaScript.
+
+## Technologies Used
+
+- **Python**: For various machine learning and data processing tasks.
+- **JavaScript (Deno)**: For creating interactive notebooks and experimenting with LLMs in a JavaScript environment.
+
